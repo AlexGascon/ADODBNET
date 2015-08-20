@@ -1,5 +1,5 @@
 # ADODBNET
-Library that greatly simplifies the migration process from VB6 to VB.NET of those projects that use ADODB
+Library that simplifies the migration process from VB6 to VB.NET of those projects that use ADODB
 
 # Clase ADODBNET: portando ADODB a VB.NET
 
