@@ -6,3 +6,11 @@
 \\Nasdades\docs\X99-TAULER\01.INFORMATICA\SOLS-DEPARTAMENT-INFORMATICA\BECARI DIPU\ADODBNET\ADODBNET\obj\Debug\AlexGascon.ADODBNET.dll
 \\Nasdades\docs\X99-TAULER\01.INFORMATICA\SOLS-DEPARTAMENT-INFORMATICA\BECARI DIPU\ADODBNET\ADODBNET\obj\Debug\AlexGascon.ADODBNET.xml
 \\Nasdades\docs\X99-TAULER\01.INFORMATICA\SOLS-DEPARTAMENT-INFORMATICA\BECARI DIPU\ADODBNET\ADODBNET\obj\Debug\AlexGascon.ADODBNET.pdb
+C:\Users\practiquesINF\Documents\ADODBNET\ADODBNET\bin\Debug\AlexGascon.ADODBNET.dll
+C:\Users\practiquesINF\Documents\ADODBNET\ADODBNET\bin\Debug\AlexGascon.ADODBNET.pdb
+C:\Users\practiquesINF\Documents\ADODBNET\ADODBNET\bin\Debug\AlexGascon.ADODBNET.xml
+C:\Users\practiquesINF\Documents\ADODBNET\ADODBNET\obj\Debug\AlexGascon.ADODBNET.Resources.resources
+C:\Users\practiquesINF\Documents\ADODBNET\ADODBNET\obj\Debug\ADODBNET.vbproj.GenerateResource.Cache
+C:\Users\practiquesINF\Documents\ADODBNET\ADODBNET\obj\Debug\AlexGascon.ADODBNET.dll
+C:\Users\practiquesINF\Documents\ADODBNET\ADODBNET\obj\Debug\AlexGascon.ADODBNET.xml
+C:\Users\practiquesINF\Documents\ADODBNET\ADODBNET\obj\Debug\AlexGascon.ADODBNET.pdb
