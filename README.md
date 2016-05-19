@@ -121,17 +121,11 @@ Clase que usaremos para representar los objetos contenidos en las celdas de la b
 
 La clase Field no tiene ningún método.
 
-# ACTUALIZANDO NUESTRO CÓDIGO
+### Actualizando nuestro código
 
 En esta sección, detallaremos los pasos a seguir para que nuestro código quede correctamente actualizado, y no notemos si quiera la migración de ADO a ADODBNET. Bastará con realizar los reemplazos que aquí se detallan para que podamos olvidarnos completamente de todo lo relacionado con el cambio.
 
 | CÓDIGO ORIGINAL | CÓDIGO DE ADODBNET | _Comentarios_ |
 | --- | --- | --- |
 | ADODB.{Whatever} | ADODBNET.{Whatever} | Cambiamos la clase principal |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
 
-## (En actualización constante)
